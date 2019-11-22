@@ -47,4 +47,3 @@ class Shoe
   
 end 
 
-shoe.new = "new"
